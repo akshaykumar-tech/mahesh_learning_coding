@@ -1,0 +1,2 @@
+class Akshay < ApplicationRecord
+end
